@@ -1,0 +1,9 @@
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\-inv\free\bin\Release\investments_distribution.exe.config
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\-inv\free\bin\Release\investments_distribution.exe
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\-inv\free\bin\Release\investments_distribution.pdb
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\-inv\free\obj\Release\free.csprojResolveAssemblyReference.cache
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\-inv\free\obj\Release\free.Form1.resources
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\-inv\free\obj\Release\investments_distribution.Properties.Resources.resources
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\-inv\free\obj\Release\free.csproj.GenerateResource.Cache
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\-inv\free\obj\Release\investments_distribution.exe
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\-inv\free\obj\Release\investments_distribution.pdb

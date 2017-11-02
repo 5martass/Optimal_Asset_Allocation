@@ -1,0 +1,84 @@
+C:\Users\holod\OneDrive\Документы\Visual Studio 2015\Projects\free\free\bin\Debug\free.exe.config
+C:\Users\holod\OneDrive\Документы\Visual Studio 2015\Projects\free\free\bin\Debug\free.exe
+C:\Users\holod\OneDrive\Документы\Visual Studio 2015\Projects\free\free\bin\Debug\free.pdb
+C:\Users\holod\OneDrive\Документы\Visual Studio 2015\Projects\free\free\obj\Debug\free.csprojResolveAssemblyReference.cache
+C:\Users\holod\OneDrive\Документы\Visual Studio 2015\Projects\free\free\obj\Debug\free.Form1.resources
+C:\Users\holod\OneDrive\Документы\Visual Studio 2015\Projects\free\free\obj\Debug\free.Properties.Resources.resources
+C:\Users\holod\OneDrive\Документы\Visual Studio 2015\Projects\free\free\obj\Debug\free.csproj.GenerateResource.Cache
+C:\Users\holod\OneDrive\Документы\Visual Studio 2015\Projects\free\free\obj\Debug\free.exe
+C:\Users\holod\OneDrive\Документы\Visual Studio 2015\Projects\free\free\obj\Debug\free.pdb
+C:\Users\1\Desktop\free-20170331T165730Z-001\free\free\bin\Debug\free.exe.config
+C:\Users\1\Desktop\free-20170331T165730Z-001\free\free\obj\Debug\free.exe
+C:\Users\1\Desktop\free-20170331T165730Z-001\free\free\obj\Debug\free.pdb
+C:\Users\1\Desktop\free-20170331T165730Z-001\free\free\bin\Debug\free.exe
+C:\Users\1\Desktop\free-20170331T165730Z-001\free\free\bin\Debug\free.pdb
+C:\Users\1\Desktop\free-20170331T165730Z-001\free\free\obj\Debug\free.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\free-20170331T165730Z-001\free\free\obj\Debug\free.Form1.resources
+C:\Users\1\Desktop\free-20170331T165730Z-001\free\free\obj\Debug\free.Properties.Resources.resources
+C:\Users\1\Desktop\free-20170331T165730Z-001\free\free\obj\Debug\free.csproj.GenerateResource.Cache
+C:\Users\Разрыхлитель\Desktop\free-20170331T165730Z-001\free\free\bin\Debug\free.exe.config
+C:\Users\Разрыхлитель\Desktop\free-20170331T165730Z-001\free\free\obj\Debug\free.exe
+C:\Users\Разрыхлитель\Desktop\free-20170331T165730Z-001\free\free\obj\Debug\free.pdb
+C:\Users\Разрыхлитель\Desktop\free-20170331T165730Z-001\free\free\bin\Debug\free.exe
+C:\Users\Разрыхлитель\Desktop\free-20170331T165730Z-001\free\free\bin\Debug\free.pdb
+C:\Users\Разрыхлитель\Desktop\free-20170331T165730Z-001\free\free\obj\Debug\free.csprojResolveAssemblyReference.cache
+C:\Users\Разрыхлитель\Desktop\free-20170331T165730Z-001\free\free\obj\Debug\free.Form1.resources
+C:\Users\Разрыхлитель\Desktop\free-20170331T165730Z-001\free\free\obj\Debug\free.Properties.Resources.resources
+C:\Users\Разрыхлитель\Desktop\free-20170331T165730Z-001\free\free\obj\Debug\free.csproj.GenerateResource.Cache
+C:\Users\holod\Desktop\слова\free-20170331T165730Z-001\free\free\bin\Debug\free.exe.config
+C:\Users\holod\Desktop\слова\free-20170331T165730Z-001\free\free\obj\Debug\free.exe
+C:\Users\holod\Desktop\слова\free-20170331T165730Z-001\free\free\obj\Debug\free.pdb
+C:\Users\holod\Desktop\слова\free-20170331T165730Z-001\free\free\bin\Debug\free.exe
+C:\Users\holod\Desktop\слова\free-20170331T165730Z-001\free\free\bin\Debug\free.pdb
+C:\Users\holod\Desktop\слова\free-20170331T165730Z-001\free\free\obj\Debug\free.csprojResolveAssemblyReference.cache
+C:\Users\holod\Desktop\слова\free-20170331T165730Z-001\free\free\obj\Debug\free.Form1.resources
+C:\Users\holod\Desktop\слова\free-20170331T165730Z-001\free\free\obj\Debug\free.Properties.Resources.resources
+C:\Users\holod\Desktop\слова\free-20170331T165730Z-001\free\free\obj\Debug\free.csproj.GenerateResource.Cache
+C:\Users\holod\Google Диск\free\free\bin\Debug\free.exe.config
+C:\Users\holod\Google Диск\free\free\obj\Debug\free.exe
+C:\Users\holod\Google Диск\free\free\obj\Debug\free.pdb
+C:\Users\holod\Google Диск\free\free\bin\Debug\free.exe
+C:\Users\holod\Google Диск\free\free\bin\Debug\free.pdb
+C:\Users\holod\Google Диск\free\free\obj\Debug\free.csprojResolveAssemblyReference.cache
+C:\Users\holod\Google Диск\free\free\obj\Debug\free.Form1.resources
+C:\Users\holod\Google Диск\free\free\obj\Debug\free.Properties.Resources.resources
+C:\Users\holod\Google Диск\free\free\obj\Debug\free.csproj.GenerateResource.Cache
+C:\Users\1\Downloads\free-20170404T141256Z-001\free\free\bin\Debug\free.exe.config
+C:\Users\1\Downloads\free-20170404T141256Z-001\free\free\obj\Debug\free.exe
+C:\Users\1\Downloads\free-20170404T141256Z-001\free\free\obj\Debug\free.pdb
+C:\Users\1\Downloads\free-20170404T141256Z-001\free\free\obj\Debug\free.csprojResolveAssemblyReference.cache
+C:\Users\1\Downloads\free-20170404T141256Z-001\free\free\obj\Debug\free.Form1.resources
+C:\Users\1\Downloads\free-20170404T141256Z-001\free\free\obj\Debug\free.Properties.Resources.resources
+C:\Users\1\Downloads\free-20170404T141256Z-001\free\free\obj\Debug\free.csproj.GenerateResource.Cache
+C:\Users\1\Downloads\free-20170404T141256Z-001\free\free\bin\Debug\free.exe
+C:\Users\1\Downloads\free-20170404T141256Z-001\free\free\bin\Debug\free.pdb
+C:\Users\Разрыхлитель\Desktop\free\free\bin\Debug\free.exe.config
+C:\Users\Разрыхлитель\Desktop\free\free\obj\Debug\free.exe
+C:\Users\Разрыхлитель\Desktop\free\free\obj\Debug\free.pdb
+C:\Users\Разрыхлитель\Desktop\free\free\bin\Debug\free.exe
+C:\Users\Разрыхлитель\Desktop\free\free\bin\Debug\free.pdb
+C:\Users\Разрыхлитель\Desktop\free\free\obj\Debug\free.csprojResolveAssemblyReference.cache
+C:\Users\Разрыхлитель\Desktop\free\free\obj\Debug\free.Form1.resources
+C:\Users\Разрыхлитель\Desktop\free\free\obj\Debug\free.Properties.Resources.resources
+C:\Users\Разрыхлитель\Desktop\free\free\obj\Debug\free.csproj.GenerateResource.Cache
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\free\free\obj\Debug\free.csprojResolveAssemblyReference.cache
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\free\free\obj\Debug\free.Form1.resources
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\free\free\obj\Debug\free.csproj.GenerateResource.Cache
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\free\free\bin\Debug\investments_distribution.exe.config
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\free\free\bin\Debug\investments_distribution.exe
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\free\free\bin\Debug\investments_distribution.pdb
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\free\free\obj\Debug\investments_distribution.Properties.Resources.resources
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\free\free\obj\Debug\investments_distribution.exe
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\free\free\obj\Debug\investments_distribution.pdb
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\-inv\free\bin\Debug\investments_distribution.exe.config
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\-inv\free\obj\Debug\investments_distribution.exe
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\-inv\free\obj\Debug\investments_distribution.pdb
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\-inv\free\bin\Debug\investments_distribution.exe
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\-inv\free\bin\Debug\investments_distribution.pdb
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\-inv\free\obj\Debug\free.csprojResolveAssemblyReference.cache
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\-inv\free\obj\Debug\free.Form1.resources
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\-inv\free\obj\Debug\investments_distribution.Properties.Resources.resources
+C:\Users\smartass\Documents\Visual Studio 2015\Projects\-inv\free\obj\Debug\free.csproj.GenerateResource.Cache
+C:\Users\smartass\Documents\MEGAsync\курсач\Оптимальное_распределение_инвестиций\-inv\free\bin\Debug\investments_distribution.exe.config
+C:\Users\smartass\Documents\MEGAsync\курсач\Оптимальное_распределение_инвестиций\-inv\free\obj\Debug\investments_distribution.exe
+C:\Users\smartass\Documents\MEGAsync\курсач\Оптимальное_распределение_инвестиций\-inv\free\obj\Debug\investments_distribution.pdb
